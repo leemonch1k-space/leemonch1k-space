@@ -30,6 +30,7 @@
 | **Django** | [IssueOut](https://github.com/leemonch1k-space/TasksManager/tree/develop) — [Demo site](https://issueout.onrender.com/) — Platform for task managing |
 | **DRF** | [Library Service](https://github.com/leemonch1k-space/DRF-Library-Service-Project) — Library management system |
 | **FastAPI** | [Online cinema](https://github.com/Iventyk/fastapi-online-cinema) — Online cinema service |
+| **FastAPI** | [AI assistant](https://github.com/leemonch1k-space/AI_document_assistant/tree/develop) — Ai document assistant |
 
 ---
 
